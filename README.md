@@ -1,2 +1,2 @@
 # Coursera_test
-Coursera
+Test to edit a file and re-upload to GitHub
